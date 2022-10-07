@@ -6,7 +6,6 @@ fn main() {
 
     let path = &args[1];
 
-    println!("path: {}", path);
     let code_buffer = fs::read_to_string(path).unwrap();
  
     Compiler::new(&code_buffer).interpret();
