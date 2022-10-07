@@ -7,6 +7,7 @@ cg run helloworld.bf
 ```
 
 借鉴项目: https://github.com/dontpanic92/rainfuck
+> JIT TODO，有点难，以后再说(flag)
 
 # Brainfuck 简介
 https://juejin.cn/post/7026931753616965663
